@@ -1,10 +1,10 @@
 # maven-project
 
-This is my Maven project from *MuleSoft's advanced development* class
+This is my Maven project from **MuleSoft's advanced development** class
 
-## How to run the project
+## How to run the _project_
 
-1. Add the remote repository: 
+1. Add the remote *repository*: 
     `git remote add origin https://github.com/<your_uid>/maven-project-<your_initials>.git`
 
 2. Enter the repo: `cd maven-project`
