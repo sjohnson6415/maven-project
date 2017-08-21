@@ -2,7 +2,7 @@
 
 This is my Maven project from **MuleSoft's advanced development** class
 
-## How to run the _project_
+## How to run the __project__
 
 1. Add the remote *repository*: 
     `git remote add origin https://github.com/<your_uid>/maven-project-<your_initials>.git`
