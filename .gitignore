@@ -48,3 +48,5 @@ target/
 src/main/api/.repository/
 derbyX.log
 activemq-dataX/
+derby.log
+activemq-data/
